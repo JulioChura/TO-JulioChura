@@ -17,8 +17,8 @@ int countChange(int money, int coins[], int n) {
 }
 
 int main() {
-    int coin = 4;
-    int coins[] = {1, 2};
+    int coin = 100000;
+    int coins[] = {1,5,10,25};
     int n = sizeof(coins)/ sizeof(coins[0]);
     cout << "countChange(4, [1,2]) = " << countChange(coin, coins, n) << endl;
     return 0;

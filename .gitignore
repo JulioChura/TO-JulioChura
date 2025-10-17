@@ -1,0 +1,26 @@
+# Build directories
+build/
+*/build/
+*/build-*/
+
+# Qt Creator
+*.pro.user
+*.autosave
+*.pro.user.*
+
+# Autogen files
+*.autogen.*
+*.moc_
+*.moc
+
+# Debug/Release files
+debug/
+release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+*.cmake
