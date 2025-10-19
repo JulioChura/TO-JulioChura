@@ -7,7 +7,7 @@
     },
     {
         "nombre": "Argentina",
-        "capital": "Buenos Aires", 
+        "capital": "Buenos Aires",
         "idioma": "Español",
         "foto": ":/banderas/banderas/ar.png"
     },
@@ -32,7 +32,7 @@
     {
         "nombre": "México",
         "capital": "Ciudad de México",
-        "idioma": "Español", 
+        "idioma": "Español",
         "foto": ":/banderas/banderas/mx.png"
     },
     {
@@ -48,7 +48,7 @@
         "foto": ":/banderas/banderas/es.png"
     },
     {
-        "nombre": "Francia", 
+        "nombre": "Francia",
         "capital": "París",
         "idioma": "Francés",
         "foto": ":/banderas/banderas/fr.png"
@@ -85,8 +85,158 @@
     },
     {
         "nombre": "Canadá",
-        "capital": "Ottawa", 
+        "capital": "Ottawa",
         "idioma": "Inglés, Francés",
         "foto": ":/banderas/banderas/ca.png"
+    },
+    {
+        "nombre": "Australia",
+        "capital": "Canberra",
+        "idioma": "Inglés",
+        "foto": ":/banderas/banderas/au.png"
+    },
+    {
+        "nombre": "Nueva Zelanda",
+        "capital": "Wellington",
+        "idioma": "Inglés, Maorí",
+        "foto": ":/banderas/banderas/nz.png"
+    },
+    {
+        "nombre": "Portugal",
+        "capital": "Lisboa",
+        "idioma": "Portugués",
+        "foto": ":/banderas/banderas/pt.png"
+    },
+    {
+        "nombre": "India",
+        "capital": "Nueva Delhi",
+        "idioma": "Hindi, Inglés",
+        "foto": ":/banderas/banderas/in.png"
+    },
+    {
+        "nombre": "Corea del Sur",
+        "capital": "Seúl",
+        "idioma": "Coreano",
+        "foto": ":/banderas/banderas/kr.png"
+    },
+    {
+        "nombre": "Corea del Norte",
+        "capital": "Pionyang",
+        "idioma": "Coreano",
+        "foto": ":/banderas/banderas/kp.png"
+    },
+    {
+        "nombre": "Rusia",
+        "capital": "Moscú",
+        "idioma": "Ruso",
+        "foto": ":/banderas/banderas/ru.png"
+    },
+    {
+        "nombre": "Sudáfrica",
+        "capital": "Pretoria",
+        "idioma": "Afrikáans, Inglés, Zulú",
+        "foto": ":/banderas/banderas/za.png"
+    },
+    {
+        "nombre": "Egipto",
+        "capital": "El Cairo",
+        "idioma": "Árabe",
+        "foto": ":/banderas/banderas/eg.png"
+    },
+    {
+        "nombre": "Arabia Saudita",
+        "capital": "Riad",
+        "idioma": "Árabe",
+        "foto": ":/banderas/banderas/sa.png"
+    },
+    {
+        "nombre": "Turquía",
+        "capital": "Ankara",
+        "idioma": "Turco",
+        "foto": ":/banderas/banderas/tr.png"
+    },
+    {
+        "nombre": "Suecia",
+        "capital": "Estocolmo",
+        "idioma": "Sueco",
+        "foto": ":/banderas/banderas/se.png"
+    },
+    {
+        "nombre": "Noruega",
+        "capital": "Oslo",
+        "idioma": "Noruego",
+        "foto": ":/banderas/banderas/no.png"
+    },
+    {
+        "nombre": "Finlandia",
+        "capital": "Helsinki",
+        "idioma": "Finés, Sueco",
+        "foto": ":/banderas/banderas/fi.png"
+    },
+    {
+        "nombre": "Dinamarca",
+        "capital": "Copenhague",
+        "idioma": "Danés",
+        "foto": ":/banderas/banderas/dk.png"
+    },
+    {
+        "nombre": "Países Bajos",
+        "capital": "Ámsterdam",
+        "idioma": "Neerlandés",
+        "foto": ":/banderas/banderas/nl.png"
+    },
+    {
+        "nombre": "Suiza",
+        "capital": "Berna",
+        "idioma": "Alemán, Francés, Italiano",
+        "foto": ":/banderas/banderas/ch.png"
+    },
+    {
+        "nombre": "Bélgica",
+        "capital": "Bruselas",
+        "idioma": "Neerlandés, Francés, Alemán",
+        "foto": ":/banderas/banderas/be.png"
+    },
+    {
+        "nombre": "Grecia",
+        "capital": "Atenas",
+        "idioma": "Griego",
+        "foto": ":/banderas/banderas/gr.png"
+    },
+    {
+        "nombre": "Irlanda",
+        "capital": "Dublín",
+        "idioma": "Inglés, Irlandés",
+        "foto": ":/banderas/banderas/ie.png"
+    },
+    {
+        "nombre": "Polonia",
+        "capital": "Varsovia",
+        "idioma": "Polaco",
+        "foto": ":/banderas/banderas/pl.png"
+    },
+    {
+        "nombre": "Ucrania",
+        "capital": "Kiev",
+        "idioma": "Ucraniano",
+        "foto": ":/banderas/banderas/ua.png"
+    },
+    {
+        "nombre": "Venezuela",
+        "capital": "Caracas",
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/ve.png"
+    },
+    {
+        "nombre": "Ecuador",
+        "capital": "Quito",
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/ec.png"
+    },
+    {
+        "nombre": "Uruguay",
+        "capital": "Montevideo",
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/uy.png"
     }
 ]
