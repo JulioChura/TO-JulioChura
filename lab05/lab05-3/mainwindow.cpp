@@ -84,9 +84,10 @@ void MainWindow::onPaisSeleccionado(const QModelIndex &index)
 
     const Pais &pais = m_listaPaises.at(row);
 
-    ui->paisNombre->setText(pais.getNombre());
-    ui->paisCapital->setText(pais.getCapital());
-    ui->paisIdioma->setText(pais.getIdioma());
+    ui->paisNombre->setText("Nombre del país: " + pais.getNombre());
+    ui->paisCapital->setText("Capital: " + pais.getCapital());
+    ui->paisIdioma->setText("Idioma: " + pais.getIdioma());
+
 
     QPixmap bandera(pais.getFoto());
     if (!bandera.isNull()) {
