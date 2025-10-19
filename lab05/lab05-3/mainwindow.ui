@@ -14,7 +14,9 @@
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">color rgb(0, 85, 0)</string>
+
+   <string notr="true">
+</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QListView" name="paises">
@@ -28,7 +30,8 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>15</pointsize>
+      <pointsize>12</pointsize>
+      <bold>true</bold>
      </font>
     </property>
    </widget>
@@ -59,6 +62,7 @@
      <property name="font">
       <font>
        <pointsize>12</pointsize>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -77,6 +81,7 @@
      <property name="font">
       <font>
        <pointsize>12</pointsize>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -95,6 +100,7 @@
      <property name="font">
       <font>
        <pointsize>12</pointsize>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -104,7 +110,7 @@
     <widget class="QLabel" name="paisFoto">
      <property name="geometry">
       <rect>
-       <x>230</x>
+       <x>170</x>
        <y>140</y>
        <width>49</width>
        <height>20</height>
