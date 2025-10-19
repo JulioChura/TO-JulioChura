@@ -13,6 +13,9 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">color rgb(0, 85, 0)</string>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QListView" name="paises">
     <property name="geometry">
@@ -119,7 +122,7 @@
      <x>0</x>
      <y>0</y>
      <width>849</width>
-     <height>25</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
